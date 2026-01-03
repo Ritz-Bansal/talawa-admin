@@ -672,7 +672,9 @@
     "agendaCategoryUpdated": "Catégorie d'ordre du jour mise à jour avec succès",
     "agendaCategoryDeleted": "Catégorie d'ordre du jour supprimée avec succès",
     "deleteAgendaCategory": "Supprimer la catégorie d'ordre du jour",
-    "deleteAgendaCategoryMsg": "Souhaitez-vous supprimer cette catégorie d'ordre du jour ?"
+    "deleteAgendaCategoryMsg": "Souhaitez-vous supprimer cette catégorie d'ordre du jour ?",
+    "agendaCategoryUpdateFailed": "Échec de la mise à jour de la catégorie d'ordre du jour: {{errorMessage}}",
+    "agendaCategoryDeleteFailed": "Échec de la suppression de la catégorie d'ordre du jour: {{errorMessage}}"
   },
   "agendaItems": {
     "agendaItemDetails": "Détails du point de l'ordre du jour",
@@ -708,7 +710,9 @@
     "deleteAgendaItem": "Supprimer le point de l'ordre du jour",
     "deleteAgendaItemMsg": "Voulez-vous supprimer ce point de l'ordre du jour ?",
     "event": "Événement",
-    "search": "Rechercher"
+    "search": "Rechercher",
+    "noCategory": "Aucune catégorie",
+    "attachmentPreview": "Aperçu de la pièce jointe"
   },
   "eventListCard": {
     "deleteEvent": "Supprimer l'événement",
@@ -1635,7 +1639,9 @@
     "popupAd": "Annonce popup",
     "menuAd": "Annonce de menu",
     "searchAdvertisements": "Rechercher des annonces",
-    "advertisementLoading": "Chargement des annonces...."
+    "advertisementLoading": "Chargement des annonces....",
+    "name": "Nom",
+    "loading": "Chargement de la publicité"
   },
   "userChat": {
     "title": "Discussions",

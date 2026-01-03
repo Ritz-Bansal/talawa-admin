@@ -672,7 +672,9 @@
     "agendaCategoryUpdated": "Categoría de la agenda actualizada exitosamente",
     "agendaCategoryDeleted": "Categoría de la agenda eliminada exitosamente",
     "deleteAgendaCategory": "Eliminar categoría de la agenda",
-    "deleteAgendaCategoryMsg": "¿Desea eliminar esta categoría de la agenda?"
+    "deleteAgendaCategoryMsg": "¿Desea eliminar esta categoría de la agenda?",
+    "agendaCategoryUpdateFailed": "Error al actualizar la categoría de la agenda: {{errorMessage}}",
+    "agendaCategoryDeleteFailed": "Error al eliminar la categoría de la agenda: {{errorMessage}}"
   },
   "agendaItems": {
     "agendaItemDetails": "Detalles del punto del orden del día",
@@ -708,7 +710,9 @@
     "deleteAgendaItem": "Eliminar punto del orden del día",
     "deleteAgendaItemMsg": "¿Desea eliminar este punto del orden del día?",
     "event": "Evento",
-    "search": "Buscar"
+    "search": "Buscar",
+    "noCategory": "Sin categoría",
+    "attachmentPreview": "Vista previa del adjunto"
   },
   "eventListCard": {
     "location": "Lugar del evento",
@@ -1634,7 +1638,9 @@
     "popupAd": "Anuncio emergente",
     "menuAd": "Anuncio de menú",
     "searchAdvertisements": "Buscar anuncios",
-    "advertisementLoading": "Cargando anuncios..."
+    "advertisementLoading": "Cargando anuncios...",
+    "name": "Nombre",
+    "loading": "Cargando anuncio"
   },
   "userChat": {
     "title": "Chats",
